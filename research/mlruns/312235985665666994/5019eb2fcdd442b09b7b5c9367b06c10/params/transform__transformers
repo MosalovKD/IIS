@@ -1,0 +1,1 @@
+[('num', StandardScaler(), ['age', 'trestbps', 'thalach', 'oldpeak']), ('cat', TargetEncoder(), ['sex', 'cp', 'fbs', 'restecg', 'exang', 'slope', 'ca', 'thal', 'age_group'])]

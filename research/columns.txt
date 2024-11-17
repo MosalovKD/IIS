@@ -1,0 +1,18 @@
+num__age
+num__trestbps
+num__thalach
+num__oldpeak
+cat__sex
+cat__cp
+cat__fbs
+cat__restecg
+cat__exang
+cat__slope
+cat__ca
+cat__thal
+poly__1
+poly__trestbps
+poly__oldpeak
+poly__trestbps^2
+poly__trestbps oldpeak
+poly__oldpeak^2

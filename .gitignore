@@ -1,0 +1,6 @@
+*.csv
+*.pkl
+.venv*
+.ipynb_checkpoints
+*.db
+mlartifacts

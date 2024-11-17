@@ -1,0 +1,9 @@
+num__age
+cat__cp
+cat__restecg
+cat__slope
+cat__ca
+cat__thal
+poly__1
+poly__trestbps
+poly__oldpeak^2

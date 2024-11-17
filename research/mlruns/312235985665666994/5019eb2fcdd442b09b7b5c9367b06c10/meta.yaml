@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kirill/IIS/research/mlruns/312235985665666994/5019eb2fcdd442b09b7b5c9367b06c10/artifacts
+end_time: 1731856170817
+entry_point_name: ''
+experiment_id: '312235985665666994'
+lifecycle_stage: active
+run_id: 5019eb2fcdd442b09b7b5c9367b06c10
+run_name: baseline model
+run_uuid: 5019eb2fcdd442b09b7b5c9367b06c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731856166096
+status: 3
+tags: []
+user_id: kirill
