@@ -1,6 +1,8 @@
 *.csv
 *.pkl
 .venv*
-.ipynb_checkpoints
+*.ipynb_checkpoints
 *.db
 mlartifacts
+*.__pycashe__
+*.pyc
