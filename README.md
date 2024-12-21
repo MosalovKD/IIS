@@ -164,14 +164,14 @@ docker-compose up
 
 Пример мониторинга сервиса:
 
-![Гистограмма предсказаний](services/scrin/Screenshot from 2024-12-21 13-12-25.png)
+![Гистограмма предсказаний](services/scrin/gist.png)
 
-![Частота запросов к сервису](services/scrin/Screenshot from 2024-12-21 13-15-31.png)
+![Частота запросов к сервису](services/scrin/rate.png)
 
-![Запросы со статусом 4хх и 5хх](services/scrin/Screenshot from 2024-12-21 13-15-31.png)
+![Запросы со статусом 4хх и 5хх](services/scrin/errors.png)
 
 Дашборд с использованием Grafana:
 
-![Дашборд](services/scrin/Screenshot from 2024-12-21 14-40-05.png)
+![Панель](services/scrin/ds.png)
 
 Помимо графиков, полученных в Prometheus (прикладные), были добавлены графики используемой памяти и времени использования процессора (инфраструктурные).
